@@ -7,7 +7,7 @@
 
 <br><br>
 
-<h2>Web Sutdy : Starbucks</h2>
+<h2>Web Stuy : Starbucks</h2>
 🖥 <b>SKILL</b>
 <img src="https://img.shields.io/badge/html-7668ac?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-9296c2?style=for-the-badge&logo=css&logoColor=white">
