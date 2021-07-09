@@ -1,8 +1,4 @@
 # Web_Starbucks
-<br>
-
-<p style="font-size: 30px;"><i>Web Study</i></p>
-
 <h2>Starbucks</h2>
 🌺 <b>홈페이지 2021.07.09 기준 : https://www.starbucks.co.kr/index.do</b>
 <br>
@@ -11,7 +7,10 @@
 
 <br><br>
 
-<h2>Web : Starbucks</h2>
-🖥 <b>HTML / CSS / JavaScript</b>
+<h2>Web Sutdy : Starbucks</h2>
+🖥 <b>SKILL</b>
+<img src="https://img.shields.io/badge/html-7668ac?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-9296c2?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-ab8ea8?style=for-the-badge&logo=javascript&logoColor=white">
 <br>
 <img src="https://user-images.githubusercontent.com/83294927/125061032-e6d94d00-e0e7-11eb-8ff6-b38a990d67e6.png">
