@@ -1,6 +1,7 @@
 # Web_Starbucks
 <br>
 
+<p style="font-size: 30px;"><i>Web Study</i></p>
 
 <h2>Starbucks</h2>
 🌺 <b>홈페이지 2021.07.09 기준 : https://www.starbucks.co.kr/index.do</b>
@@ -13,4 +14,4 @@
 <h2>Web : Starbucks</h2>
 🖥 <b>HTML / CSS / JavaScript</b>
 <br>
-<img src="https://user-images.githubusercontent.com/83294927/125061032-e6d94d00-e0e7-11eb-8ff6-b38a990d67e6.png)">
+<img src="https://user-images.githubusercontent.com/83294927/125061032-e6d94d00-e0e7-11eb-8ff6-b38a990d67e6.png">
