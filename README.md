@@ -9,6 +9,7 @@
 
 <h2>Web Study : Starbucks</h2>
 🌺 https://gallant-newton-5d5a57.netlify.app
+<br>
 🖥 <b>SKILL</b>
 <img src="https://img.shields.io/badge/html-7668ac?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-9296c2?style=for-the-badge&logo=css3&logoColor=white">
