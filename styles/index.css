@@ -25,6 +25,7 @@ a:hover {
   position: relative;
 }
 
+/* 기본버튼 */
 .btn {
   width: 125px;
   padding: 7px;
